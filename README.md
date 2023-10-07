@@ -2,17 +2,18 @@
 identity.ndof.org
 
 
-Motto:
+### Motto:
 "Streamlining Data, One Line at a Time"
 
-Mission:
+### Mission:
 Our mission is to simplify data streaming and make it more efficient by offering a robust and user-friendly solution capable of handling JSON, XML, and other newline delimited objects.
 
-Vision:
+### Vision:
 To be the go-to solution for businesses worldwide for their data-streaming needs, known for our innovative approach and the value we bring to data management.
 
-Strategy:
-Our strategy is focused on continuous improvement and innovation of NDOF while fostering a thriving user community. We aim to consistently provide updates to our open-source library, introduce new functionalities, and prioritize customer feedback for improvements.
+### Strategy:
+Our strategy is focused on continuous improvement and innovation of NDOF while fostering a thriving user community. 
+We aim to consistently provide updates to our open-source library, introduce new functionalities, and prioritize customer feedback for improvements.
 
 Values:
 1. Innovation: Our aim lies in transforming the way businesses handle data through innovative solutions.
